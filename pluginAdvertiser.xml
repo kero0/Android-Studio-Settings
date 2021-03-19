@@ -1631,6 +1631,16 @@
                       <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
+                  <entry key="ROS.launch">
+                    <value>
+                      <FeaturePluginData displayName="ROS launch" pluginName="ROS-Robot Operating System" pluginId="achdjian.plugin.ros" />
+                    </value>
+                  </entry>
+                  <entry key="ROS.rosNode">
+                    <value>
+                      <FeaturePluginData displayName="ROS rosNode" pluginName="ROS-Robot Operating System" pluginId="achdjian.plugin.ros" />
+                    </value>
+                  </entry>
                   <entry key="ReactNative">
                     <value>
                       <FeaturePluginData displayName="React Native" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
